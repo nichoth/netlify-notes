@@ -9,6 +9,7 @@
   "dependencies": {},
   "scripts": {
     "start": "ntl dev",
+    "build": "echo \"ok\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
