@@ -25,6 +25,23 @@ To load the product data into the frontend of our site, we need to add some clie
 
 This function uses the built-in Fetch API to load the response from our serveless function
 
+------------------------------
 
+To create the markup for our products, we’re going to use the HTML <template> tag. We can define product markup in a component-like fashion.
+
+----------------------------
+
+todo:
+
+## Connect to Netlify and set up automatic deployments using the Netlify CLI
+Create a new Netlify site using the command line: `ntl init`
+
+Open netlify dashboard: `ntl open`
+Open the site: `ntl open:site`
+
+## env variables
+third-party API tokens and secret things
+
+the publishable key and the secret key for our Stripe account
 
 
